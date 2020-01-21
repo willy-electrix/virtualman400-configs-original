@@ -1,0 +1,111 @@
+<settings version="2">
+    <setting id="accessToken" default="true"></setting>
+    <setting id="askCinema" default="true">false</setting>
+    <setting id="audioBoost" default="true">0</setting>
+    <setting id="auto_adjust_transcode_quality">true</setting>
+    <setting id="backgroundsync_saftyMargin">5</setting>
+    <setting id="bestQuality" default="true">false</setting>
+    <setting id="bestTrailer">true</setting>
+    <setting id="companion_show_gdm_port_warning">true</setting>
+    <setting id="companionPort">3005</setting>
+    <setting id="companionUpdatePort">32412</setting>
+    <setting id="dbCreatedWithVersion" default="true"></setting>
+    <setting id="dbSyncIndicator">true</setting>
+    <setting id="dbSyncScreensaver" default="true">false</setting>
+    <setting id="deleteMovies" default="true">false</setting>
+    <setting id="deleteTV" default="true">false</setting>
+    <setting id="deviceName">Kodi (playbox)</setting>
+    <setting id="enable_alexa">true</setting>
+    <setting id="enableBackgroundSync">true</setting>
+    <setting id="enableCinema" default="true">false</setting>
+    <setting id="enableMusic">true</setting>
+    <setting id="enablePlaylistSync">true</setting>
+    <setting id="enableTextureCache">true</setting>
+    <setting id="enforceUserLogin" default="true">false</setting>
+    <setting id="escapePath" default="true">false</setting>
+    <setting id="failedCount" default="true">0</setting>
+    <setting id="FanartTV" default="true">false</setting>
+    <setting id="FanArtTVAPIKey" default="true">639191cb0774661597f28a47e7e2bad5</setting>
+    <setting id="fetch_pms_item_number">50</setting>
+    <setting id="force_transcode_pix" default="true">false</setting>
+    <setting id="forceReloadSkinOnPlaybackStop" default="true">false</setting>
+    <setting id="fullSyncInterval">60</setting>
+    <setting id="https" default="true">false</setting>
+    <setting id="ignoreSpecialsNextEpisodes" default="true">false</setting>
+    <setting id="imageSyncDuringPlayback">true</setting>
+    <setting id="imageSyncNotifications">true</setting>
+    <setting id="indicate_media_versions" default="true">false</setting>
+    <setting id="InstallQuestionsAnswered">true</setting>
+    <setting id="ipaddress" default="true"></setting>
+    <setting id="kodi_db_has_been_wiped_clean">true</setting>
+    <setting id="kodi_video_cache">20971520</setting>
+    <setting id="kodiplextimeoffset" default="true">0</setting>
+    <setting id="last_migrated_PKC_version">2.10.2</setting>
+    <setting id="limitindex">200</setting>
+    <setting id="maxVideoQualities">11</setting>
+    <setting id="MovieShowWatched">true</setting>
+    <setting id="myplexlogin">true</setting>
+    <setting id="offerDelete" default="true">false</setting>
+    <setting id="OnDeckTvAppendSeason" default="true">false</setting>
+    <setting id="OnDeckTvAppendShow" default="true">false</setting>
+    <setting id="pickPlexSubtitles">true</setting>
+    <setting id="playstate_sync_indicator" default="true">false</setting>
+    <setting id="playType" default="true">0</setting>
+    <setting id="plex_allows_mediaDeletion">true</setting>
+    <setting id="plex_client_Id">68ff4ed2-c758-43a4-a795-1c97425279be</setting>
+    <setting id="plex_machineIdentifier" default="true"></setting>
+    <setting id="plex_restricteduser" default="true">false</setting>
+    <setting id="plex_servername" default="true"></setting>
+    <setting id="plex_serverowned">true</setting>
+    <setting id="plex_status" default="true">Not logged in to plex.tv</setting>
+    <setting id="plex_status_fanarttv_lookup">No</setting>
+    <setting id="plex_status_image_caching">No</setting>
+    <setting id="plexAvatar" default="true"></setting>
+    <setting id="plexCompanion">true</setting>
+    <setting id="plexid" default="true"></setting>
+    <setting id="plexLogin" default="true"></setting>
+    <setting id="plexToken" default="true"></setting>
+    <setting id="port" default="true"></setting>
+    <setting id="PreferKodiCollectionArt">true</setting>
+    <setting id="RecentTvAppendSeason" default="true">false</setting>
+    <setting id="RecentTvAppendShow" default="true">false</setting>
+    <setting id="remapSMB" default="true">false</setting>
+    <setting id="remapSMBmovieNew" default="true">smb://</setting>
+    <setting id="remapSMBmovieOrg" default="true"></setting>
+    <setting id="remapSMBmusicNew" default="true">smb://</setting>
+    <setting id="remapSMBmusicOrg" default="true"></setting>
+    <setting id="remapSMBphotoNew" default="true">smb://</setting>
+    <setting id="remapSMBphotoOrg" default="true"></setting>
+    <setting id="remapSMBtvNew" default="true">smb://</setting>
+    <setting id="remapSMBtvOrg" default="true"></setting>
+    <setting id="replaceSMB">true</setting>
+    <setting id="resumeJumpBack">10</setting>
+    <setting id="sections_asked_for_machine_identifier" default="true"></setting>
+    <setting id="show_pms_offline">true</setting>
+    <setting id="showExtrasInsteadOfTrailer" default="true">false</setting>
+    <setting id="skipContextMenu" default="true">false</setting>
+    <setting id="sslcert" default="true">None</setting>
+    <setting id="sslverify" default="true">false</setting>
+    <setting id="startupDelay" default="true">0</setting>
+    <setting id="streamMusic" default="true">false</setting>
+    <setting id="subtitleSize">100</setting>
+    <setting id="syncEmptyShows" default="true">false</setting>
+    <setting id="SyncInstallRunDone" default="true">false</setting>
+    <setting id="syncSpecificKodiPlaylists" default="true">false</setting>
+    <setting id="syncSpecificKodiPlaylistsPrefix" default="true">sync_</setting>
+    <setting id="syncSpecificPlexPlaylists" default="true">false</setting>
+    <setting id="syncSpecificPlexPlaylistsPrefix" default="true">sync_</setting>
+    <setting id="syncThreadNumber">10</setting>
+    <setting id="themoviedbAPIKey" default="true">19c90103adb9e98f2172c6a6a3d85dc4</setting>
+    <setting id="trailerNumber">3</setting>
+    <setting id="transcodeH265" default="true">0</setting>
+    <setting id="transcodeHi10P" default="true">false</setting>
+    <setting id="transcoderVideoQualities">10</setting>
+    <setting id="TVShowWatched">true</setting>
+    <setting id="useDirectPaths" default="true">0</setting>
+    <setting id="usePlexArtwork">true</setting>
+    <setting id="userid" default="true"></setting>
+    <setting id="username" default="true"></setting>
+    <setting id="warned_setting_videoplayer.autoplaynextitem" default="true">false</setting>
+    <setting id="widgetLimit">30</setting>
+</settings>

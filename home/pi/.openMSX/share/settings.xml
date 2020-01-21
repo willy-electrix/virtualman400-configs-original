@@ -1,0 +1,23 @@
+<!DOCTYPE settings SYSTEM 'settings.dtd'>
+<settings>
+  <settings>
+    <setting id="renderer">SDL</setting>
+    <setting id="invalid_psg_directions_callback">psgdirectioncallback</setting>
+    <setting id="di_halt_callback">dihaltcallback</setting>
+    <setting id="fullscreen">true</setting>
+  </settings>
+  <bindings>
+    <bind key="joy1 button4 up">keymatrixup 6 0x20</bind>
+    <bind key="joy1 button5 up">keymatrixup 6 0x40</bind>
+    <bind key="joy1 button6 up">keymatrixup 6 0x80</bind>
+    <bind key="joy1 button7 up">keymatrixup 7 0x01</bind>
+    <bind key="joy1 button8 up">exit</bind>
+    <bind key="joy1 button9 up">keymatrixdown 7 0x02</bind>
+    <bind key="joy1 button4 down">keymatrixup 6 0x20</bind>
+    <bind key="joy1 button5 down">keymatrixup 6 0x40</bind>
+    <bind key="joy1 button6 down">keymatrixup 6 0x80</bind>
+    <bind key="joy1 button7 down">keymatrixup 7 0x01</bind>
+    <bind key="joy1 button8 down">exit</bind>
+    <bind key="joy1 button9 down">keymatrixdown 7 0x02</bind>
+  </bindings>
+</settings>

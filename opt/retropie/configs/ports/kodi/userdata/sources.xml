@@ -1,0 +1,25 @@
+<sources>
+  <video>
+    <default pathversion="1" />
+    <source>
+      <name>Plex</name>
+      <path pathversion="1">smb://</path>
+      <allowsharing>true</allowsharing>
+    </source>
+    <source>
+      <name>Plex</name>
+      <path pathversion="1">smb://</path>
+      <allowsharing>true</allowsharing>
+    </source>
+    <source>
+      <name>PlexKodiConnect Masterlock Hack</name>
+      <path pathversion="1">nfs://</path>
+      <allowsharing>true</allowsharing>
+    </source>
+    <source>
+      <name>PlexKodiConnect Masterlock Hack</name>
+      <path pathversion="1">nfs://</path>
+      <allowsharing>true</allowsharing>
+    </source>
+  </video>
+</sources>

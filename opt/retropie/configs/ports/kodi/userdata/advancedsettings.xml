@@ -1,0 +1,13 @@
+<advancedsettings>
+  <musiclibrary>
+    <backgroundupdate>true</backgroundupdate>
+  </musiclibrary>
+  <videolibrary>
+    <cleanonupdate>false</cleanonupdate>
+  </videolibrary>
+  <video>
+    <ignorepercentatend>10</ignorepercentatend>
+    <playcountminimumpercent>90</playcountminimumpercent>
+    <ignoresecondsatstart>60</ignoresecondsatstart>
+  </video>
+</advancedsettings>
